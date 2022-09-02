@@ -1,2 +1,2 @@
-# Pertemuan_1-Praktikum
+# Pertemuan_2-Praktikum
 # ngetetst Lurd
